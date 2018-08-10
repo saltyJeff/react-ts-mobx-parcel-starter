@@ -3,7 +3,7 @@ Boilerplate for simple projects
 
 # Run
 
-**Requires `parcel-bundler` to run
+**Requires `parcel-bundler` to run**
 
 `npm start`
 
